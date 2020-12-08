@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+interview/.metadata/
+/.metadata/
